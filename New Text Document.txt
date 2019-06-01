@@ -1,5 +1,5 @@
 ﻿Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
 commit: Lưu lại trạng thái của index
-1111xxdfjhdjdgsjk
-=dfgdf=pl
+01235
+.bn,.bgjkj
