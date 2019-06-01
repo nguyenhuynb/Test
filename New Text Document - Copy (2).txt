@@ -1,6 +1,5 @@
-﻿Đến cả con khỉ cũng hiểu được lệnh Git
-commit: Lưu lại trạng thái của index
-ghg487uydrg
-dfhbdmnb mn
-ghg487uydrg
-dfhbdmnb mn
+﻿1
+3
+5
+7
+9
