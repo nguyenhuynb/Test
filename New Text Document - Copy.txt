@@ -1,3 +1,4 @@
-﻿Đến cả con khỉ cũng hiểu được lệnh Git
-ooopopoop
-ffm,m,mn
+﻿b
+d
+f
+h
